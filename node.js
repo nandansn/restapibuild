@@ -1,12 +1,4 @@
-ode.js
----------
-/*
-npm search express
-RUN npm install -y express --save
-npm install body-parser --save
-npm install cookie-parser --save
-npm install multer --save
-*/
+
 
 var express = require('express');
 var app = express();
